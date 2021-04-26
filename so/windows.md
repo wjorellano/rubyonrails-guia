@@ -39,7 +39,7 @@ Recomendación: reiniciar el equipo antes de abrir ubuntu para que pueda tomar e
 
 - Ahora abra Ubuntu en el menú Inicio o ejecutándolo ´wsl´ en PowerShell o en el símbolo del sistema. Se le pedirá que configure un nuevo usuario para Ubuntu. Recuerde esta contraseña, ya que es la que utilizará más adelante cuando instale paquetes con ´sudo´.
 
-![ubuntu](./img/busqueda.PNG)
+![ubuntu](./img/busqueda.png)
 
 ¡Felicitaciones! Ahora tiene una terminal de Ubuntu en Windows. Utilizará esto para ejecutar su servidor Rails y otros procesos de desarrollo.
 
